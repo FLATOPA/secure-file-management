@@ -1,3 +1,17 @@
+# 🔐 Secure Multi-User File Management System
+## 📖 About This Project
+
+This project simulates a real-world secure file management system using Linux. It’s designed to control access to department folders (HR, IT, Finance, Marketing) by using Linux groups, user permissions, and shell scripting.
+
+It demonstrates how to:
+
+- Automate user and group creation with Bash
+- Restrict folder access using `chmod`, `chown`, and sticky bits
+- Simulate company-grade file protection on a Linux server
+- Use AWS EC2 and VS Code Remote SSH for real-world DevOps workflow
+
+This is an ideal project for aspiring **System Administrators, Cloud Support Engineers, or DevOps Engineers** looking to showcase hands-on Linux experience.
+
 ## 📁 Folder & Permission Structure
 
 The system is organized to simulate departmental access in a real organization:
