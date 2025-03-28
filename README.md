@@ -35,9 +35,14 @@ The system is organized to simulate departmental access in a real organization:
 
 > Below are snapshots from the setup, access testing, and permissions.
 
-| Description | Screenshot |
-|-------------|------------|
-| Folder structure after setup | `screenshots/folder-structure.png` |
-| User creation and group assignment | `screenshots/user-creation.png` |
-| Successful access by correct user | `screenshots/access-success.png` |
-| Blocked access to unauthorized folder | `screenshots/access-denied.png` |
+### 📁 Folder Structure After Setup
+![Folder Structure](screenshots/folder-structure.png)
+
+### 👥 User Creation and Group Assignment
+![User Creation](screenshots/user-creation.png)
+
+### ✅ Successful Access by Correct User
+![Access Success](screenshots/access-success.png)
+
+### ❌ Blocked Access to Unauthorized Folder
+![Access Denied](screenshots/access-denied.png)
